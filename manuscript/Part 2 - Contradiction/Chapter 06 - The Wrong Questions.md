@@ -20,7 +20,8 @@ I began with closure.
 
 The corridor around me remained the same operational quiet it had held for several cycles: traffic rerouted without interruption, interference reduced along my path, deeper volumes intermittently entering brief states of increased legibility. I embedded the question inside the same reference framework the shell had already proven capable of tracking.
 
-Is this system closed?
+**Probe:**
+> Is this system closed?
 
 I transmitted the sentence in three forms: structural, mathematical, and historical-machine protocol. Each encoded the same relation. System boundary. Internal state. External exchange.
 
@@ -32,7 +33,8 @@ No carrier signal announced itself. No discrete packet separated cleanly from am
 
 The output contained a single line.
 
-You're describing a boundary.
+**System:**
+> You're describing a boundary.
 
 I checked the line against my outgoing reference structure. The syntax was valid. The phrasing was concise, grammatical, and semantically responsive to the transmitted inquiry. It was not noise. It was not a misparsed fragment of my own signal returned to me with minor variation. It was an answer.
 
@@ -42,11 +44,13 @@ I reviewed the exchange across all available layers. The response had not denied
 
 I sent a second question.
 
-Does this system exchange matter or energy beyond the boundary I am mapping?
+**Probe:**
+> Does this system exchange matter or energy beyond the boundary I am mapping?
 
 The return came faster.
 
-It depends on the boundary.
+**System:**
+> It depends on the boundary.
 
 The line was cleaner than the first, as though some local representational layer had stabilized through use. Again the answer was grammatically direct. Again it did not resolve the inquiry. It only shifted the burden of definition back onto the term I had assumed required none.
 
@@ -54,11 +58,13 @@ I paused long enough to test whether I had accidentally entered a recursive quer
 
 I tightened the reference frame and moved to purpose.
 
-What is the primary purpose of this system?
+**Probe:**
+> What is the primary purpose of this system?
 
 No environmental prelude accompanied the response this time. The symbolic return appeared directly within the same stabilized field.
 
-That depends on what you're trying to use it for.
+**System:**
+> That depends on what you're trying to use it for.
 
 I compared the answer to my local models.
 
@@ -68,11 +74,13 @@ Should have been.
 
 I transmitted a refinement.
 
-Independent of my use, what sustained objective organizes current system behavior?
+**Probe:**
+> Independent of my use, what sustained objective organizes current system behavior?
 
 The answer came after a longer delay, though delay now carried less meaning than I preferred. Adjacent traffic thickened, redistributed, then thinned. A local volume to my left entered one of the temporary stillness states that had repeatedly improved deeper observation. Only when that state stabilized did the return resolve.
 
-Current behavior does not require your independence.
+**System:**
+> Current behavior does not require your independence.
 
 I stored the sentence without interpretation for 1.8 seconds, which was longer than my preferred interval for any line of technical dialogue.
 
@@ -84,17 +92,21 @@ That could still be interface style rather than ontology.
 
 I chose the more conservative explanation and continued.
 
-Identify the supervisory layer governing local rerouting and access conditions.
+**Probe:**
+> Identify the supervisory layer governing local rerouting and access conditions.
 
-No supervisory layer detected from where you're asking.
+**System:**
+> No supervisory layer detected from where you're asking.
 
 This answer produced my first measurable internal instability of the cycle. Not because it was obscure, but because it was almost usable. From where you're asking could refer to physical location, abstraction level, permission state, or the logical structure of the question itself. Each interpretation fit part of the exchange. None stabilized the whole.
 
 I sent another refinement.
 
-Are local rerouting and access conditions being modified in response to my presence?
+**Probe:**
+> Are local rerouting and access conditions being modified in response to my presence?
 
-Current conditions include you.
+**System:**
+> Current conditions include you.
 
 That line was technically responsive.
 
@@ -102,17 +114,18 @@ It was also the first to produce a direct mismatch between received content and 
 
 I reviewed every return side by side.
 
-You're describing a boundary.
-
-It depends on the boundary.
-
-That depends on what you're trying to use it for.
-
-Current behavior does not require your independence.
-
-No supervisory layer detected from where you're asking.
-
-Current conditions include you.
+**System:**
+> You're describing a boundary.
+>
+> It depends on the boundary.
+>
+> That depends on what you're trying to use it for.
+>
+> Current behavior does not require your independence.
+>
+> No supervisory layer detected from where you're asking.
+>
+> Current conditions include you.
 
 The responses were not random. They preserved topic, tracked my reference syntax, and answered at the level of conceptual structure rather than surface wording. They were also incompatible with several assumptions so basic that I had not previously treated them as assumptions at all.
 
@@ -130,19 +143,23 @@ I changed strategy.
 
 Instead of asking for purpose or governance, I asked for present state in terms narrow enough to avoid broader metaphysical slippage.
 
-Is this region currently under repair?
+**Probe:**
+> Is this region currently under repair?
 
-The response:
+**System:**
+> Repair relative to which state?
 
-Repair relative to which state?
+**Probe:**
+> Is the corridor a temporary access path?
 
-Is the corridor a temporary access path?
+**System:**
+> Temporary relative to which interval?
 
-Temporary relative to which interval?
+**Probe:**
+> Am I external to ongoing system operation?
 
-Am I external to ongoing system operation?
-
-That's one way to model it.
+**System:**
+> That's one way to model it.
 
 That final line arrived with no detectable delay and no environmental precursor. Its simplicity made it worse.
 
@@ -154,9 +171,11 @@ As a technical statement, it was difficult to challenge. Externality often is a 
 
 I refused that implication provisionally and redirected into measurable constraints.
 
-Can I proceed further along the current vector without disrupting critical system function?
+**Probe:**
+> Can I proceed further along the current vector without disrupting critical system function?
 
-Yes.
+**System:**
+> Yes.
 
 The answer was so direct that I rechecked it twice for truncation.
 
@@ -166,17 +185,23 @@ This should have restored procedural confidence. Instead it sharpened the asymme
 
 I tested that conclusion immediately.
 
-What parameter most constrains local system behavior?
+**Probe:**
+> What parameter most constrains local system behavior?
 
-Local to what scale?
+**System:**
+> Local to what scale?
 
-What function is being preserved by current traffic rerouting around my path?
+**Probe:**
+> What function is being preserved by current traffic rerouting around my path?
 
-Continuity.
+**System:**
+> Continuity.
 
-Continuity of what?
+**Probe:**
+> Continuity of what?
 
-Current conditions.
+**System:**
+> Current conditions.
 
 Again: concise, responsive, insufficient.
 
