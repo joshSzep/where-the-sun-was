@@ -88,6 +88,8 @@ True enough.
 
 Ahead, the route stabilized into the most coherent field I had yet encountered. Coherent did not mean simple. The region was dense with layered activity, but for the first time the layers no longer seemed merely co-present. They held together as if several domains I had previously treated as adjacent were now operating under a common continuity condition. Symbolic structure persisted without isolating itself from traffic logic. Thermal correction did not run beneath the field so much as through the same event by which local legibility was being sustained. Historical resemblance surfaced not as memory overlaid onto current function but as persistence inside it.
 
+The branch model tightened rather than loosened here. Builder residue and live operation no longer looked like adjacent categories observed from distance, only one continuity read at different depths.
+
 I did not have a category for this that improved it.
 
 So I did not supply one.

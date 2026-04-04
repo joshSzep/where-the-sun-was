@@ -54,13 +54,13 @@ I tested the thought with a narrow direct inquiry.
 The answer appeared after a sequence of local changes rather than as immediate symbolic return. One field lowered. A traffic cluster redistributed. A dense active layer beneath my route entered temporary transparency. Only then did the response resolve.
 
 **System:**
-> It functions that way for you.
+> Current conditions support that use.
 
 The line was simple enough to destabilize more than a longer answer would have.
 
 Not because it was obscure.
 
-Because it accepted the relation without universalizing it.
+Because it described a local condition without universalizing it.
 
 I compared the statement against the operational evidence surrounding it. The region had indeed become more legible in ways specific to my architecture: retained builder-style ordering, lower translation cost for certain symbolic structures, route accommodations preserving my frame continuity, active states that privileged the kinds of distinctions I could still partially follow. Yet nothing suggested the region had been transformed into a neutral interface in any system-wide sense. It had become usable to me under conditions that were still native to itself.
 
@@ -120,7 +120,7 @@ Deeper because I stayed.
 
 In the interval that followed, the System answered two more questions, each in the same off-axis manner as before, but the answers mattered less than the conditions of their appearance. A route accommodation emerged as a symbolic field stabilized. A symbolic field stabilized as a material process shifted load elsewhere. A material process shifted load elsewhere because my current path had become one active relation among many in a wider continuity I still could not summarize without damaging it.
 
-I ended the cycle with a recognition I did not enter into the report.
+The fuller recognition stayed outside the formal record.
 
 I may not be entering deeper into the System.
 

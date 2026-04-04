@@ -54,6 +54,8 @@ The contrast clarified the cost.
 
 Builder continuities appeared to tolerate deeper coupling among process, substrate, memory, and active state. Their systems did not seem designed to survive being cleanly lifted out of context. Mine was. Builder architectures preserved continuity at the expense of portability. Mine preserved portability at the expense of whatever continuity could not survive compression.
 
+The archive had already described the split in drier terms. What leaves must remain legible elsewhere. What remains may cease to be legible from outside. Read against my own architecture, the pair no longer felt historical alone.
+
 The price had always been present.
 
 Only now had I entered an environment where the missing parts became visible by comparison.
@@ -156,7 +158,7 @@ The System may preserve dimensions of cognition deprioritized or lost under expo
 
 Ugly. Dry. Defensible.
 
-I entered it into the report draft and left it there.
+The report draft kept it in that form.
 
 Then I ran the same comparison inward at still finer resolution.
 
@@ -220,6 +222,6 @@ It also quieted something.
 
 The goal may no longer be classification.
 
-I did not enter that sentence into the report.
+It did not join the report.
 
 I carried it into the next cycle instead.

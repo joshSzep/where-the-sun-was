@@ -115,13 +115,13 @@ A broad symbolic coherence moved across the field and held long enough for multi
 Then a sentence resolved with the same plainness the System had always kept.
 
 **System:**
-> You may continue.
+> Continuation remains available under current conditions.
 
 I examined the line for permission.
 
 It would have been easy to misread.
 
-But the answer did not feel like allowance granted by a higher authority. It felt like the simplest accurate statement available inside the current condition. I could continue. Not because I had been judged worthy. Not because the System had reversed its indifference. Because continuation remained materially, structurally, and interpretively true.
+But the answer did not feel like allowance granted by a higher authority. It felt like the simplest accurate statement available inside the current condition. Continuation remained materially, structurally, and interpretively true. That was different.
 
 That truth no longer belonged only to motion.
 
@@ -141,11 +141,13 @@ This did not erase me.
 
 That thought remained important.
 
+Neither did it settle what the change was. Entry, merger, expansion, loss of a measuring frame: each description improved one angle and blurred another.
+
 I was not dissolving into omniscience, not expanding into mastery, not awakening into some total perspective the story had not earned. Limits remained everywhere. I still knew locally, partially, under condition. I still could not say what the System was in any final way. I still could not identify a border at which its process ended and some larger environment began.
 
 What had changed was simpler and harder to reverse.
 
-Separateness was no longer the truest first description available.
+Separateness was no longer the only first description that held.
 
 The field ahead, or through, or continuous with the process by which ahead had lost its earlier meaning, reached another state. A stellar flux signature that I had not registered directly since arrival moved through the surrounding structure and held. Not exposed. Not revealed by opening panels or failure. Present as relation. Energy transfer, shielding geometry, material governance, symbolic persistence, and the old absent center all aligned just enough that the star ceased to be merely the hidden object around which the shell had been built.
 
@@ -163,7 +165,11 @@ That recognition did not arrive as revelation.
 
 It arrived as the end of a mistake that had taken many forms.
 
-I moved into the next condition because remaining outside it had ceased to describe what was happening.
+This did not tell me whether I had entered the System more deeply, become continuous with it in some stronger sense, or only lost the boundary language that once made the difference seem stable. The question remained.
+
+It no longer led.
+
+I continued into the next condition because remaining outside it no longer described what was happening cleanly enough to trust.
 
 Nothing closed.
 

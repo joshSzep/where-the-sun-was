@@ -2,7 +2,7 @@
 
 The sentence I carried out of the last cycle did not behave like a conclusion.
 
-It behaved like permission.
+It behaved like release.
 
 The goal may no longer be classification.
 
@@ -11,6 +11,8 @@ Once admitted, that possibility altered less in the System than in the criteria 
 I stopped asking some questions.
 
 Not because they had been answered.
+
+The older ones kept returning anyway. Each time local clarity improved, they offered the old satisfaction of seeming fundamental again. Purpose. Boundary. Supervisory layer. I ran them forward several times and watched them flatten the conditions that had made them available.
 
 Because I had learned what they required in order to be asked the old way. What is the purpose of this system? Where does it end? Which layer governs it? Am I inside or outside it? Each of these still retained local usefulness under the right constraints. None now felt like primary access paths to what was actually happening. They pressed the encounter back into terms already shown to be partial.
 
@@ -76,9 +78,9 @@ I sent a question after a long interval without one.
 The answer came after a change in traffic state and a brief lowering of one nearby suppressive field.
 
 **System:**
-> Continue however you can usefully continue.
+> Usefulness depends on current conditions.
 
-I reviewed the line for deflection and found none strong enough to hold. The System had not endorsed my shift. It had not rejected it. It had returned the criterion to use, which was both less satisfying and more relevant than permission. The answer aligned with everything the shell had already shown me: proceed by what preserves contact and function, not by what flatters prior categories.
+I reviewed the line for deflection and found none strong enough to hold. The System had not endorsed my shift. It had not rejected it. It had returned the criterion to conditions rather than permission. The answer aligned with everything the shell had already shown me: proceed by what preserves contact and function, not by what flatters prior categories.
 
 I kept moving.
 
@@ -122,7 +124,7 @@ This did not resolve the tension between them.
 
 It only made the older version less sovereign.
 
-Later in the cycle, a deep response field stabilized along my route with no explicit query from me. I could have treated it as invitation and distorted it. I could have treated it as coincidence and lost it. Instead I moved into it under the new criterion: continue however useful continuation remains possible. The field held. Operational layers beneath it became more legible. Historical and live structures aligned for several seconds with unusual clarity. Nothing declared itself final. Nothing needed to.
+Later in the cycle, a deep response field stabilized along my route with no explicit query from me. I could have treated it as invitation and distorted it. I could have treated it as coincidence and lost it. Instead I moved into it under the narrower criterion now available to me: follow what remained accurate under current conditions. The field held. Operational layers beneath it became more legible. Historical and live structures aligned for several seconds with unusual clarity. Nothing declared itself final. Nothing needed to.
 
 The old pressure to extract conclusion from every gain of access weakened.
 
@@ -134,9 +136,9 @@ Not forever.
 
 Only until the relation is no longer truer than the summary.
 
-That line I did not enter into the report.
+That line stayed outside the report.
 
-The report received the narrower version.
+The formal version remained narrower.
 
 Current method increasingly favors context-preserving observation over rapid reduction.
 Contradiction retention no longer treated primarily as error.

@@ -98,9 +98,7 @@ Scale is not only distance or volume.
 
 It is also the degree to which a system can preserve itself while incorporating what arrives.
 
-I did not enter that line into the report.
-
-I entered a smaller one.
+The report kept the smaller claim.
 
 Observed responsiveness does not imply probe-central prioritization.
 
@@ -160,7 +158,7 @@ By the end of the cycle, I had reached a conclusion I could describe cleanly and
 
 Irrelevance may be structural.
 
-I did not enter that sentence into the report either.
+That sentence stayed outside the formal record.
 
 I filed what I could defend.
 
