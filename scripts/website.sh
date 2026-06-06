@@ -175,6 +175,8 @@ awk '
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Where The Sun Was</title>
   <meta name="description" content="A quiet transmission from a darkened origin system. Read the first chapter of Where The Sun Was by Joshua Szepietowski.">
+  <link rel="icon" type="image/png" href="where-the-sun-was.png">
+  <link rel="apple-touch-icon" href="where-the-sun-was.png">
   <style>
     :root {
       --bg: #050404;
