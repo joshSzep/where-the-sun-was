@@ -8,12 +8,14 @@ repo_root=$(cd -- "$script_dir/.." && pwd)
 source_markdown="$repo_root/Where The Sun Was.md"
 cover_image="$repo_root/where-the-sun-was.png"
 pdf_file="$repo_root/Where The Sun Was.pdf"
+epub_file="$repo_root/Where The Sun Was.epub"
 website_dir="$repo_root/website"
 website_cover="$website_dir/where-the-sun-was.png"
 website_pdf="$website_dir/Where The Sun Was.pdf"
+website_epub="$website_dir/Where The Sun Was.epub"
 index_file="$website_dir/index.html"
 
-for required_file in "$source_markdown" "$cover_image" "$pdf_file"; do
+for required_file in "$source_markdown" "$cover_image" "$pdf_file" "$epub_file"; do
   if [[ ! -f "$required_file" ]]; then
     printf 'Missing required file: %s\n' "$required_file" >&2
     exit 1
@@ -25,6 +27,7 @@ mkdir -p "$website_dir"
 
 cp "$cover_image" "$website_cover"
 cp "$pdf_file" "$website_pdf"
+cp "$epub_file" "$website_epub"
 
 temp_dir=$(mktemp -d)
 trap 'rm -rf "$temp_dir"' EXIT
@@ -626,12 +629,13 @@ HTML_HEAD
         <header class="section-heading">
           <span>Full Text</span>
           <h2>The Complete Novel</h2>
-          <p>Download the assembled manuscript as a PDF.</p>
+          <p>Download the assembled manuscript as a PDF or EPUB.</p>
         </header>
 
         <div class="download-card">
-          <p>The full work is available as a single document for offline reading.</p>
+          <p>The full work is available as a PDF for browser reading and an EPUB for e-readers.</p>
           <a href="Where The Sun Was.pdf" download>Download Where The Sun Was.pdf</a>
+          <a href="Where The Sun Was.epub" download>Download Where The Sun Was.epub</a>
         </div>
       </section>
     </main>
